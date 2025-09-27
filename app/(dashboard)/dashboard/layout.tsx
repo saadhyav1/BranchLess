@@ -5,7 +5,7 @@ export const metadata = {
   description: "Dashboard for Branchless bank controls",
 };
 
-import React from "react";
+import React from "react"; 
 
 const DashboardLayout = ({ children }: { children: React.ReactNode}) => {
   return (
